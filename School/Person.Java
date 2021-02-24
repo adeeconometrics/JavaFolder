@@ -1,4 +1,5 @@
-package School;
+package JavaFolder;
+
 //defaults to male
 public class Person{
     String name;
