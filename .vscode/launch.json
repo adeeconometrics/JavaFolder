@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ReadWrite",
+            "request": "launch",
+            "mainClass": "IOStream.ReadWrite",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch Encryption",
+            "request": "launch",
+            "mainClass": "IOStream.Encryption",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch IO",
+            "request": "launch",
+            "mainClass": "IOStream.IO",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AssertionDemo",
+            "request": "launch",
+            "mainClass": "Assertions.AssertionDemo",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch CastingClass",
+            "request": "launch",
+            "mainClass": "CastingClass",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch Collections",
+            "request": "launch",
+            "mainClass": "Collections.Collections",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListImplementation",
+            "request": "launch",
+            "mainClass": "Collections.ListImplementation",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch MapImplementation",
+            "request": "launch",
+            "mainClass": "Collections.MapImplementation",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetImplementation",
+            "request": "launch",
+            "mainClass": "Collections.SetImplementation",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindArray",
+            "request": "launch",
+            "mainClass": "Exceptions.FindArray",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThrowDemo",
+            "request": "launch",
+            "mainClass": "Exceptions.ThrowDemo",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch callUserDefinedException",
+            "request": "launch",
+            "mainClass": "Exceptions.callUserDefinedException",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch Output",
+            "request": "launch",
+            "mainClass": "IOStream.Output",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stream",
+            "request": "launch",
+            "mainClass": "IOStream.Stream",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch InstanceOFTutorial",
+            "request": "launch",
+            "mainClass": "InstanceOFTutorial",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceDemo",
+            "request": "launch",
+            "mainClass": "InterfaceDemo",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arithmetic",
+            "request": "launch",
+            "mainClass": "JavaFolder.Arithmetic",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bank",
+            "request": "launch",
+            "mainClass": "JavaFolder.Bank",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "JavaFolder.HelloWorld",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch Printing",
+            "request": "launch",
+            "mainClass": "JavaFolder.Printing",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "School.Main",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch SolutionAdvanceAritmetic",
+            "request": "launch",
+            "mainClass": "SolutionAdvanceAritmetic",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch Students",
+            "request": "launch",
+            "mainClass": "Students",
+            "projectName": "JavaProjects_24518f00"
+        }
+    ]
+}
