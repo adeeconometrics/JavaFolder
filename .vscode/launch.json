@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Cipher",
+            "request": "launch",
+            "mainClass": "Finals.Cipher",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch RSAUtil",
+            "request": "launch",
+            "mainClass": "Finals.RSAUtil",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch RSAKeyPairGenerator",
+            "request": "launch",
+            "mainClass": "Finals.RSAKeyPairGenerator",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
+            "name": "Launch RSA",
+            "request": "launch",
+            "mainClass": "Finals.RSA",
+            "projectName": "JavaProjects_24518f00"
+        },
+        {
+            "type": "java",
             "name": "Launch ReadWrite",
             "request": "launch",
             "mainClass": "IOStream.ReadWrite",

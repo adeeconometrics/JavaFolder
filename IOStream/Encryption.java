@@ -10,7 +10,7 @@ import java.io.IOException;
 public class Encryption {
     public static void main(String args[]){
         try {
-            FileInputStream f = new FileInputStream(".\\hello.txt");
+            FileInputStream f = new FileInputStream("C:\\Users\\amianadave\\Documents\\JavaProjects\\IOStream\\hello.txt");
             Encryption e = new Encryption();
             System.out.println("The cipher: ");
             e.encrypt(f, 1);
